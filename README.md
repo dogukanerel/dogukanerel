@@ -11,7 +11,6 @@ I'm a product designer with **7+ years** crafting complex web and mobile apps, m
 - **Focus** — Intellectual Property Intelligence
 - **Company** — [Marqby](https://marqby.com)
 - **Location** — Ankara, Türkiye · GMT+3
-- **Status** — Open to new projects
 - **Email** — [hello@dogukanerel.com](mailto:hello@dogukanerel.com)
 
 ## Clients & projects
