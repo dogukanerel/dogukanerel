@@ -14,6 +14,10 @@ I'm a product designer with **7+ years** crafting complex web and mobile apps, m
 - **Status** — Open to new projects
 - **Email** — [hello@dogukanerel.com](mailto:hello@dogukanerel.com)
 
+## Clients & projects
+
+Marqby · IMMAF · World Obstacle · UKOSF · England Boxing · Olymedic · MNM Events · MNM Tournaments · MNM Scoreboard · MNM Organisation · IMMAF Live · MMA Supercup Brave · Flexidesk · Flexievent · HiZone Coffee · INC Türkiye · Soonova · Left Hook Boxing Club · Viva Club · Itemintro · EskanBank (Bahrain) · Master Garage · Demirel İnşaat A.Ş. · Norell Private Homes · E12 Learning · Edutalkinn
+
 ## Smooti Studio
 
 **Smooti** — thoughtfully made apps for everyday life. *Everyday, made smoother.*
