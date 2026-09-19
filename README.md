@@ -10,6 +10,7 @@ I'm a product designer with **7+ years** crafting complex web and mobile apps, m
 
 ## Now
 
+|                |                                                                |
 | :------------- | :------------------------------------------------------------- |
 | **Focus**      | Intellectual Property Intelligence                             |
 | **Company**    | [Marqby](https://marqby.com)                                   |
@@ -55,20 +56,22 @@ Mobile apps · AI apps · Games
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dogukanerel&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=171819&text_color=737373&icon_color=171819" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=dogukanerel&hide_border=true&background=FFFFFF&stroke=ECECEC&ring=171819&fire=171819&currStreakNum=171819&currStreakLabel=737373&sideNums=353638&sideLabels=737373&dates=A3A3A3&border_radius=12" alt="Streak" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dogukanerel&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=171819&text_color=737373&icon_color=171819" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=dogukanerel&hide_border=true&background=FFFFFF&stroke=ECECEC&ring=171819&fire=171819&currStreakNum=171819&currStreakLabel=737373&sideNums=353638&sideLabels=737373&dates=A3A3A3&border_radius=12" alt="Contribution streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanerel&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=171819&text_color=737373" alt="Top languages" />
+  <img width="100%" src="https://github-readme-activity-graph-kappa.vercel.app/graph?username=dogukanerel&bg_color=ffffff&color=353638&line=171819&point=171819&area=true&area_color=DFDFDF&hide_border=true" alt="Contribution activity" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dogukanerel&bg_color=ffffff&color=353638&line=171819&point=171819&area=true&area_color=DFDFDF&hide_border=true" alt="Activity graph" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=dogukanerel&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dogukanerel&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/dogukanerel?style=flat-square&label=Followers&color=171819&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdogukanerel&query=%24.public_repos&label=Public%20repos&color=171819&logo=github&logoColor=white&style=flat-square" alt="Public repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdogukanerel&query=%24.created_at&label=Member%20since&color=171819&logo=github&logoColor=white&style=flat-square" alt="Member since" />
 </div>
 
 ## Find me
