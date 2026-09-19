@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Doğukan Erel — Product Designer" width="100%" />
+  <img src="https://raw.githubusercontent.com/dogukanerel/dogukanerel/main/assets/banner.svg?v=2" alt="Doğukan Erel — Product Designer" width="100%" />
 </div>
 
 ## Hi, I'm Doğukan
@@ -37,7 +37,6 @@ Mobile apps · AI apps · Games
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dogukanerel&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=171819&text_color=737373&icon_color=171819" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=dogukanerel&hide_border=true&background=FFFFFF&stroke=ECECEC&ring=171819&fire=171819&currStreakNum=171819&currStreakLabel=737373&sideNums=353638&sideLabels=737373&dates=A3A3A3&border_radius=12" alt="Contribution streak" />
 </div>
 
