@@ -10,7 +10,6 @@ I'm a product designer with **7+ years** crafting complex web and mobile apps, m
 
 ## Now
 
-|                |                                                                |
 | :------------- | :------------------------------------------------------------- |
 | **Focus**      | Intellectual Property Intelligence                             |
 | **Company**    | [Marqby](https://marqby.com)                                   |
