@@ -28,11 +28,26 @@ Mobile apps · AI apps · Games
 
 ## Tools I use
 
-**Design** — Figma · Framer · Sketch · Midjourney
+**Design**  
+![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=flat&logo=figma&logoColor=171819)
+![Framer](https://img.shields.io/badge/Framer-f5f5f5?style=flat&logo=framer&logoColor=171819)
+![Sketch](https://img.shields.io/badge/Sketch-f5f5f5?style=flat&logo=sketch&logoColor=171819)
+![Midjourney](https://img.shields.io/badge/Midjourney-f5f5f5?style=flat)
 
-**AI & code** — ChatGPT · Claude Code · Codex · DeepSeek · OpenCode
+**AI & code**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-f5f5f5?style=flat)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-f5f5f5?style=flat&logo=anthropic&logoColor=171819)
+![Codex](https://img.shields.io/badge/Codex-f5f5f5?style=flat)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-f5f5f5?style=flat&logo=deepseek&logoColor=171819)
+![OpenCode](https://img.shields.io/badge/OpenCode-f5f5f5?style=flat)
 
-**Productivity** — Arc · Raycast · Notion · CleanShot X · Screen Studio · Spotify
+**Productivity**  
+![Arc](https://img.shields.io/badge/Arc-f5f5f5?style=flat&logo=arc&logoColor=171819)
+![Raycast](https://img.shields.io/badge/Raycast-f5f5f5?style=flat&logo=raycast&logoColor=171819)
+![Notion](https://img.shields.io/badge/Notion-f5f5f5?style=flat&logo=notion&logoColor=171819)
+![CleanShot X](https://img.shields.io/badge/CleanShot%20X-f5f5f5?style=flat)
+![Screen Studio](https://img.shields.io/badge/Screen%20Studio-f5f5f5?style=flat)
+![Spotify](https://img.shields.io/badge/Spotify-f5f5f5?style=flat&logo=spotify&logoColor=171819)
 
 ## GitHub
 
@@ -48,9 +63,21 @@ Mobile apps · AI apps · Games
   <img src="https://github-profile-trophy-kappa.vercel.app/?username=dogukanerel&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/dogukanerel?style=flat&label=Followers&labelColor=ededed&color=f5f5f5&logo=github&logoColor=171819" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdogukanerel&query=%24.public_repos&label=Public%20repos&style=flat&labelColor=ededed&color=f5f5f5&logo=github&logoColor=171819" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Member%20since-2016-f5f5f5?style=flat&labelColor=ededed&logo=github&logoColor=171819" alt="Member since" />
+</div>
+
 ## Find me
 
-[dogukanerel.com](https://dogukanerel.com) · [smooti.studio](https://smooti.studio) · [LinkedIn](https://www.linkedin.com/in/dogukanerel) · [X](https://x.com/dogukanerel) · [Figma](https://www.figma.com/@dogu) · [Framer](https://www.framer.com/@framer) · [Email](mailto:hello@dogukanerel.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dogukanerel.com-f5f5f5?style=flat&labelColor=ededed&logo=googlechrome&logoColor=171819)](https://dogukanerel.com)
+[![Studio](https://img.shields.io/badge/Studio-smooti.studio-f5f5f5?style=flat&labelColor=ededed&logo=vercel&logoColor=171819)](https://smooti.studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dogukanerel-f5f5f5?style=flat&labelColor=ededed)](https://www.linkedin.com/in/dogukanerel)
+[![X](https://img.shields.io/badge/X-@dogukanerel-f5f5f5?style=flat&labelColor=ededed&logo=x&logoColor=171819)](https://x.com/dogukanerel)
+[![Figma](https://img.shields.io/badge/Figma-@dogu-f5f5f5?style=flat&labelColor=ededed&logo=figma&logoColor=171819)](https://www.figma.com/@dogu)
+[![Framer](https://img.shields.io/badge/Framer-@framer-f5f5f5?style=flat&labelColor=ededed&logo=framer&logoColor=171819)](https://www.framer.com/@framer)
+[![Email](https://img.shields.io/badge/Email-hello@dogukanerel.com-f5f5f5?style=flat&labelColor=ededed&logo=maildotru&logoColor=171819)](mailto:hello@dogukanerel.com)
 
 <div align="center">
   <br/>
